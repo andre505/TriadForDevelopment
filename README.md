@@ -1,6 +1,6 @@
 # TRIAD FOR DEVELOPMENT
 
-[![N|Solid](https://www.dropbox.com/s/qjlv8rabueatk0g/rsz_t4dlogobgreen.png?dl=1)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://www.dropbox.com/s/qjlv8rabueatk0g/rsz_t4dlogobgreen.png?raw=1)](https://nodesource.com/products/nsolid)
 
 Website for Triad For Development. 
 
