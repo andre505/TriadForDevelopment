@@ -1,6 +1,6 @@
 # TRIAD FOR DEVELOPMENT
 
-![alt text](https://github.com/andre505/TriadForDevelopment/t4dlogobgreen.png?raw=true)
+![alt text](https://github.com/andre505/TriadForDevelopment/blob/master/t4dlogobgreen.png?raw=true)
 
 Website for Triad For Development. 
 
