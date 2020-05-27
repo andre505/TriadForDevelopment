@@ -1,4 +1,4 @@
-# TRIAD FOR DEVELOPMENT
+# <div align="center">TRIAD FOR DEVELOPMENT</div>
 
 ![alt text](https://github.com/andre505/TriadForDevelopment/blob/master/t4dlogobgreen.png?raw=true)
 
