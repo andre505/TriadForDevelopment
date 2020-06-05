@@ -8,6 +8,10 @@
     <Folder Include="wwwroot\theme\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="SendGrid" Version="9.15.1" />
+  </ItemGroup>
+
 
 
 </Project>
