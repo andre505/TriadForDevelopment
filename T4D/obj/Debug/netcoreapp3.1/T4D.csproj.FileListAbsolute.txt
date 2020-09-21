@@ -9,7 +9,6 @@ C:\Users\Paelyt Solution\source\repos\T4D\T4D\bin\Debug\netcoreapp3.1\T4D.dll
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\bin\Debug\netcoreapp3.1\T4D.pdb
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\bin\Debug\netcoreapp3.1\T4D.Views.dll
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\bin\Debug\netcoreapp3.1\T4D.Views.pdb
-C:\Users\Paelyt Solution\source\repos\T4D\T4D\obj\Debug\netcoreapp3.1\T4D.csprojAssemblyReference.cache
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\obj\Debug\netcoreapp3.1\staticwebassets\T4D.StaticWebAssets.Manifest.cache
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\obj\Debug\netcoreapp3.1\staticwebassets\T4D.StaticWebAssets.xml
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\obj\Debug\netcoreapp3.1\T4D.RazorAssemblyInfo.cache
@@ -38,3 +37,4 @@ C:\Users\Paelyt Solution\source\repos\T4D\T4D\obj\Debug\netcoreapp3.1\Razor\View
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\bin\Debug\netcoreapp3.1\SendGrid.dll
 C:\Users\Paelyt Solution\source\repos\T4D\T4D\obj\Debug\netcoreapp3.1\T4D.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paelyt Solution\source\repos\T4D\T4D\obj\Debug\netcoreapp3.1\T4D.csprojAssemblyReference.cache
